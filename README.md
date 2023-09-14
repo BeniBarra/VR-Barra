@@ -1,6 +1,6 @@
 # VR-Barra
 
-### This project is part of an learn course through Unity. With this project I will develop the fundamental skills of leverageing Unity for VR development.
+### This project is part of a learn course through Unity. With this project I will develop the fundamental skills of leverageing Unity for VR development.
 
 ### Approach and goal
 - Setup project for VR development
